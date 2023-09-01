@@ -1,12 +1,24 @@
-﻿Mod for the game Farthest Frontier that will queue rebuilding of buildings destroyed by raiders.  Trigger the rebuilds by using the hotkey (**CTRL+R** by default).  Hotkey can be modified in `Farthest Frontier\UserData\BulkRebuild.cfg` after the game runs once.
+Still a work in progress. Will update as I continue. Mod compatibility is being looked into. Please post any errors you may run into in the forum!
 
-Tested with:  
-MelonLoader 0.6.0
-Farthest Frontier 0.8.2
+TO ACTIVATE:
+Press CTRL + K while in game.
 
-## Installation Instructions:
+To install:
+Unzip, drag all Accord dlls and autocommute dll to melonloader mods folder
+Drag Autocommute.cfg to the UserData folder in the main game directory.
 
-* Download and install [MelonLoader](https://github.com/LavaGang/MelonLoader).﻿﻿
-* Download the BulkRepair zip file from Nexus Mods.
-* Unzip the BulkRepair.dll file to your `Farthest Frontier\Mods` folder.
+**Requirement https://github.com/LavaGang/MelonLoader v0.6.1
+*Original Mod: https://www.nexusmods.com/farthestfrontier/mods/26 thanks to D3XED
 
+
+Version 1.4
+Working on game version v0.9.0
+Version 1.3
+Includes cfg that can be used to change keybind
+Version 1.2
+Changes keybinding to CTRL + K
+Attempt to fix null reference errors.
+Version 1.1
+Farmers and laborers now included in calculations, should improve efficiency a bit
+Version 1.0
+First publish
