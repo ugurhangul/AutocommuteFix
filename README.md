@@ -7,8 +7,11 @@ To install:
 Unzip, drag all Accord dlls and autocommute dll to melonloader mods folder
 Drag Autocommute.cfg to the UserData folder in the main game directory.
 
-**Requirement https://github.com/LavaGang/MelonLoader v0.6.1
-*Original Mod: https://www.nexusmods.com/farthestfrontier/mods/26 thanks to D3XED
+##Requirements
+https://github.com/LavaGang/MelonLoader v0.6.1
+#Original Mod
+
+https://www.nexusmods.com/farthestfrontier/mods/26 thanks to D3XED
 
 
 Version 1.4
